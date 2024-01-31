@@ -3,3 +3,5 @@ A Bisa Bahasa Inggris
 B Paham/Bisa C++
 C Olahraga Rutin
 D Belajar Rutin
+
+Tambahan Rutin Mengaji
